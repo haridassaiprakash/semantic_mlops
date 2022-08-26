@@ -1,0 +1,7 @@
+joblib
+pandas
+azureml-sdk
+numpy
+transformers
+sentence-transformers
+torch
